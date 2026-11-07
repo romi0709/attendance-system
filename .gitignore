@@ -1,0 +1,18 @@
+# Database configuration
+config/database.php
+attendance_system/config/database.php
+
+# Private uploaded files
+assets/uploads/
+attendance_system/assets/uploads/
+
+# Temporary test files
+create_admin.php
+test_db.php
+test_hash.php
+attendance_system/create_admin.php
+attendance_system/test_db.php
+attendance_system/test_hash.php
+
+# Duplicate project folder
+attendance_system/
